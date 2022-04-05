@@ -26,7 +26,7 @@ function Projects() {
               title="React Blog App"
               description="It includes capabilities React.JS and React Router mainly. While developing this project I understand that how I can create multiple components in React like Smart Components and Dummy Components and how to modify and do data operations within component using state variables and how to communicate between two components props variables by using HTML, CSS, JavaScript , React.JS"
               link="https://github.com/ravig1729/React-Blog-App"
-              link1= "https://react-blog-apprg.netlify.app/home"
+              link1= "https://react-blog-apprg.netlify.app/"
             />
           </Col>
 
